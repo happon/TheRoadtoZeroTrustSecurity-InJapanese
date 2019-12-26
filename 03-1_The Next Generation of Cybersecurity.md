@@ -19,10 +19,14 @@ In an apartment building, there are many more points of entry and a longer list 
 For this reason, you likely lock the door to your apartment instead of just relying on the perimeter security of the apartment building, because you have less certainty that every person in the building has authorization to be there.  
 このため、あなたはおそらく、アパート周辺のセキュリティに頼るのではなく、ドアをロックします。なぜなら建物内のすべての人がそこにいる許可を持っているという確信があまりないからです。
 
-Early networks may have looked like houses, but they are increasingly moving in the direction of apartment buildings, with constant internal traffic offering potential access to each unit. Networks have become widely dispersed across a complex web of connections to outside servers and other networks, with larger numbers of “tenants” and a growing number of entry/exit points.  
+Early networks may have looked like houses, but they are increasingly moving in the direction of apartment buildings, with constant internal traffic offering potential access to each unit. 
+初期のネットワークは家のように見えたかもしれませんが、しかし彼らは、各ユニットへの潜在的なアクセスを提供する一定の内部トラフィックを持つ”アパート”の方向へ動いています。
 
+Networks have become widely dispersed across a complex web of connections to outside servers and other networks, with larger numbers of “tenants” and a growing number of entry/exit points.  
+ネットワークは、外部サーバーや他のネットワークとの接続という複雑なウェブ全体に広く分散しています。そしてそれは、”テナント”数が増え、それに伴い、入／出口ポイントも増加しています。
 
 As noted earlier, perimeter security has become increasingly expensive as it requires more firewalls with complex filtering capabilities to cover the expanding attack surface of a network, all while the security of the network continues to decrease as regular usage creates new vulnerabilities.  
-
+前述のように、拡大する攻撃対象をカバーし、通常の使用で新しい脆弱性が作成されることによりネットワークのセキュリティが低下し続けるため、境界セキュリティは、複雑なフィルタリング機能を備えたファイアウォールをより多く必要とするため、セキュリティはますます高価になっています
 
 For this reason, it is useful to assume that the network is compromised and take a more targeted approach to security.  
+このため、ネットワークが危険にさらされていると仮定すると便利です。より標的を絞ったセキュリティ対策を講じます。
