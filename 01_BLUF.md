@@ -1,10 +1,16 @@
 This report is a product of the Defense Innovation Board (DIB).  
+このレポートは、Defense Innovation Board（DIB）の製品です。
+
 The DIB is a Federal Advisory Committee established to provide independent advice to the Secretary of Defense.  
+DIBは連邦政府諮問委員会であり、国防長官に独立したアドバイスを提供します。
+
 Statements, opinions, conclusions, and recommendations in this report do not necessarily represent the official position of the Department of Defense (DoD).  
+これに関する記述、意見、結論、および推奨事項レポートは、国防総省（DoD）の公式の立場を必ずしも表すものではありません。
 
 # The Road to Zero Trust (Security) 
+# ゼロトラストへの道（セキュリティ）
 ### Kurt DelBene, Milo Medin, Richard Murray 9 July 2019
-
+### カート デルベネ、ミロ メディン、リチャード マレー 2019年7月9日
 ### BULF
 Zero Trust Architecture (ZTA) has the ability to fundamentally change the effectiveness of security and data sharing across DoD networks.  
 
