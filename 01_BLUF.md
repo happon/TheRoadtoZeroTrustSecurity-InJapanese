@@ -11,8 +11,7 @@ Statements, opinions, conclusions, and recommendations in this report do not nec
 # ゼロトラストへの道（セキュリティ）
 ### Kurt DelBene, Milo Medin, Richard Murray 9 July 2019
 ### カート デルベネ、ミロ メディン、リチャード マレー 2019年7月9日
-### BLUF
-（Bottom Line Up Front：はじめに結論を述べる）
+### BLUF（Bottom Line Up Front：はじめに結論を述べる）
 
 Zero Trust Architecture (ZTA) has the ability to fundamentally change the effectiveness of security and data sharing across DoD networks.  
 Zero Trust Architecture（ZTA）には、DoDネットワーク全体でのセキュリティおよびデータ共有の有効性を根本的に変える能力があります。
