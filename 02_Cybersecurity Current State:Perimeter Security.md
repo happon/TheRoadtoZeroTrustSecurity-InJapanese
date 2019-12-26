@@ -41,14 +41,16 @@ for example, the shift from 4G to 5G will drastically impact the future of globa
 たとえば、4Gから5Gへの移行は、グローバル通信ネットワークの将来に大きな影響を与え、DoDの作戦環境を根本的に変更します。 
 
 5G will enable a higher volume of data shared between more systems and platforms at a faster rate, and has the ability to enhance DoD decision-making and strategic capabilities, from the enterprise network to the tactical edge of the battlefield.  
-5Gはシステムやプラットホームをより速いレートで大きな量のデータ共有可能とするでしょう。また、エンタープライズネットワークから
+5Gはより多くのシステムやプラットホームをより速いレートで大きな量のデータ共有可能とするでしょう。そしてそれは、エンタープライズネットワークから戦術的な最前線までのDoDの意思決定および戦略的機能を強化する能力を持っています。
 
 5G will increase DoD’s ability to link multiple systems into a broader network while sharing information in real time, improving communication across Services, geographies, and domains while developing a common picture of the battlefield to improve situational awareness.  
-
+5Gは、状況認識を改善するために行う、戦場の共通の図を作成しつつ、サービス、地理、およびドメインにわたる情報をリアルタイムで共有しながら、広範なネットワークでの複数システムをリンクする能力を高めます。
 
 This rapid data transfer is critical to the development of future DoD capabilities and enhanced situational awareness.  
+この迅速なデータ転送は、将来のDoD機能の開発と状況認識の強化に不可欠です。
 
 Artificial intelligence and machine learning applied to DoD systems will depend on that flow of data, which will in turn enable a host of new technologies and missions, from resilient satellite constellations to mesh networks.  
+
 
 However, each of the added endpoints and data transfers within this expanded network creates a new opportunity for adversaries to target data and operational capability on DoD networks.  
 
