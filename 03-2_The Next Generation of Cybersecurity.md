@@ -9,3 +9,6 @@
 ##### ZTA can gap-fill for perimeter security by catching network breachers at the next layer of access, matching the identity of users and devices to authorizations associated with those users and devices to ensure access is granted appropriately and securely.
 ##### ZTA shifts the emphasis from the perimeter of a network to the discrete applications and services within a network, building more specific access controls to those specific resources.
 ##### This method of wrapping security around applications and services is known as “microsegmentation,” and it allows for more targeted security and management of access beyond traditional perimeter security. 
+##### By decreasing reliance on security around the perimeter of a network, the security of the data packets going in and out of a ZTA system becomes even more critical.
+##### As a result, encryption of those data packets is one of the most fundamental requirements of any ZTA, and should be standard in any good security architecture and data transfer (including protocols like SSL and TLS).
+##### The authentication and authorization process is also critical to the success of ZTA because it provides explicit verification of users and devices for each application and service, rather than implicit verification that assumes safety and grants access once a user and device has entered into the network. 
