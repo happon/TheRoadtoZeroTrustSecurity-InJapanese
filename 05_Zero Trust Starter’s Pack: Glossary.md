@@ -1,7 +1,8 @@
 # Zero Trust Starter’s Pack:
 ### Glossary Authentication:
-##### “Authentication” is the identity confirmation for users and devices using attributes (e.g., name, location, time, etc.) universally recognized and tracked across the network.
-##### “Multi-factor authentication” (MFA) describes the process of cross-checking multiple attributes to verify identity.
+ “Authentication” is the identity confirmation for users and devices using attributes (e.g., name, location, time, etc.) universally recognized and tracked across the network.
+
+“Multi-factor authentication” (MFA) describes the process of cross-checking multiple attributes to verify identity.
 ### Authorization:
 ##### “Authorization” describes the access privileges granted to users and devices.
 ##### Perimeter security authorization grants access to the network, while zero trust authorization grants access to individual applications and services within the network. 
