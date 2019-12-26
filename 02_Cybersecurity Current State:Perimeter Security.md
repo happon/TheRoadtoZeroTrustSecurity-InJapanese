@@ -50,12 +50,16 @@ This rapid data transfer is critical to the development of future DoD capabiliti
 この迅速なデータ転送は、将来のDoD機能の開発と状況認識の強化に不可欠です。
 
 Artificial intelligence and machine learning applied to DoD systems will depend on that flow of data, which will in turn enable a host of new technologies and missions, from resilient satellite constellations to mesh networks.  
-
-
+DoDシステムに適用される人工知能と機械学習は、強靭な衛星群からメッシュネットワークまでのデータの流れに依存することで、多くの新しいテクノロジーとミッションが可能になります。
+ 
 However, each of the added endpoints and data transfers within this expanded network creates a new opportunity for adversaries to target data and operational capability on DoD networks.  
+しかしながら、追加された各エンドポイントとこの拡張されたネットワーク内でのデータ転送により、敵がデータとDoDネットワークの運用能力を標的とする新たな機会が生み出されます。
 
 As the attack surface expands, perimeter security will increasingly becoming overwhelmed, allowing more unauthorized users to slip into the network.  
+攻撃対象領域が拡大すると、境界セキュリティはますます圧倒的になり、より多くの不正ユーザーがネットワークに侵入することを許可します。
 
 Just as these technologies generate more data traffic, they will also enable the volume and speed of threats to increase, making it difficult for any perimeter security system to monitor and manage those threats.  
+これらのテクノロジーがより多くのデータトラフィックを生成するように、脅威の量と速度を増加させ、これらの脅威を監視および管理する境界セキュリティシステムを困難にします。
 
 Without a change in cybersecurity strategy, DoD runs the risk of compromising its data, networks and operations.  
+サイバーセキュリティ戦略に変更がなければ、DoDデータ、ネットワーク、および運用を危険にさらすリスクがあります。
