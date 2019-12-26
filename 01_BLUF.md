@@ -7,7 +7,7 @@ Statements, opinions, conclusions, and recommendations in this report do not nec
 
 ### BULF
 Zero Trust Architecture (ZTA) has the ability to fundamentally change the effectiveness of security and data sharing across DoD networks.  
-<br>
+
 
 From a security perspective, ZTA can better track and block external attackers, while limiting security breaches resulting from internal human error.  
 From a data sharing perspective, ZTA can better manage rules of access for users and devices across DoD to facilitate secure sharing, from the enterprise center to the tactical edge.  
