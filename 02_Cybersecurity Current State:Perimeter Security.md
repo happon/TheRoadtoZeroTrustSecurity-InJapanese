@@ -1,4 +1,5 @@
 # Cybersecurity Current State: Perimeter Security 
+サイバーセキュリティの現状：境界セキュリティ  
 
 The rapid evolution and expansion of the digital world has come with a growing number of increasingly sophisticated cyber threats.  
 
