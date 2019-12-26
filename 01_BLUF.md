@@ -7,6 +7,8 @@ Statements, opinions, conclusions, and recommendations in this report do not nec
 
 ### BULF
 Zero Trust Architecture (ZTA) has the ability to fundamentally change the effectiveness of security and data sharing across DoD networks.  
+<br>
+
 From a security perspective, ZTA can better track and block external attackers, while limiting security breaches resulting from internal human error.  
 From a data sharing perspective, ZTA can better manage rules of access for users and devices across DoD to facilitate secure sharing, from the enterprise center to the tactical edge.  
 Furthermore, the network design and flexibility of ZTA will help DoD more rapidly adopt and implement critical network technologies and enablers, ranging from cloud computing to artificial intelligence and machine learning.  
@@ -20,6 +22,6 @@ One such method is “zero trust,” which could drive a step-change in security
 
 Zero Trust Architecture (ZTA) can significantly offset vulnerabilities and threats across DoD networks by creating discrete, granular access rules for specific applications and services within a network.  
 Some of the most severe cases of network breaches could have been prevented using basic zero trust principles  
-- for example, had ZTA access rules been applied to Edward Snowden, he would have been unable to obtain the broad range of documents that he released to the public.  
+for example, had ZTA access rules been applied to Edward Snowden, he would have been unable to obtain the broad range of documents that he released to the public.  
 Instead, he was given “system administrator” privileges within the NSA network, which provided him blanket access to resources and files.  
 This method of blind trust in users and devices inside the perimeter the network is not sustainable, and will continue to put national security information and operations at risk until it is resolved.  
