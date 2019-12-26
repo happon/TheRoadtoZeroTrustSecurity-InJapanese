@@ -11,21 +11,23 @@ Statements, opinions, conclusions, and recommendations in this report do not nec
 # ゼロトラストへの道（セキュリティ）
 ### Kurt DelBene, Milo Medin, Richard Murray 9 July 2019
 ### カート デルベネ、ミロ メディン、リチャード マレー 2019年7月9日
-### BULF
-Zero Trust Architecture (ZTA) has the ability to fundamentally change the effectiveness of security and data sharing across DoD networks.  
+### BLUF
+（Bottom Line Up Front：はじめに結論を述べる）
 
+Zero Trust Architecture (ZTA) has the ability to fundamentally change the effectiveness of security and data sharing across DoD networks.  
+Zero Trust Architecture（ZTA）には、DoDネットワーク全体でのセキュリティおよびデータ共有の有効性を根本的に変える能力があります。
 
 From a security perspective, ZTA can better track and block external attackers, while limiting security breaches resulting from internal human error.  
-
+セキュリティの観点から、ZTAは、外部の攻撃者を追跡およびブロックする一方で、内部の人間に起因するセキュリティ侵害を制限することをより良くすることができます。
 
 From a data sharing perspective, ZTA can better manage rules of access for users and devices across DoD to facilitate secure sharing, from the enterprise center to the tactical edge.  
-
+データ共有の観点から、ZTAは、エンタープライズセンターから戦術的な最前線（edge）まで、ユーザーのアクセス規則と安全な共有を促進するDoD全体のデバイスをより適切に管理することができます。
 
 Furthermore, the network design and flexibility of ZTA will help DoD more rapidly adopt and implement critical network technologies and enablers, ranging from cloud computing to artificial intelligence and machine learning.  
-
+さらに、ZTAのネットワーク設計と柔軟性は、DoDによるクラウドコンピューティングから人工知能・機械学習に及ぶ重要なネットワークテクノロジーとイネーブラーのより迅速な導入と実装を手助けするでしょう。
 
 DoD cybersecurity is at a critical juncture.  
-
+国防総省のサイバーセキュリティは重要な時期です。
 
 Its networks are growing in size and complexity, requiring massive amounts of rapid data transfer to maintain situational awareness on the digital and physical battlefield.  
 
