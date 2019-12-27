@@ -62,7 +62,7 @@ Additionally, certificates can be strengthened by including both user and device
 In advanced ZTA, this health inspection may ultimately be applied to the application or service being accessed  
 高度なZTAでは、この健全性検査は最終的にアプリケーションまたはアクセスされているサービスに適用される場合があります。
 
-- once the access requester has been verified, the zero trust model might then query the access destination to ensure the security of that destination.  
+　- once the access requester has been verified, the zero trust model might then query the access destination to ensure the security of that destination.  
 アクセス依頼者（要求？）が確認されると、ゼロトラストモデルはアクセス先を照会して、その宛先のセキュリティを確保します。
 
 By transitioning from a “one-way handshake” to a “two-way handshake” model, an organization can better ensure that neither the users and devices nor the applications and services are compromised and infect one another.  
