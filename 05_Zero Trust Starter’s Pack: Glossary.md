@@ -1,7 +1,8 @@
-# Zero Trust Starter’s Pack:
-### Glossary Authentication:
+# Zero Trust Starter’s Pack:Glossary
+ゼロトラストスターターズパック：用語集
+### Authentication:「認証」
  “Authentication” is the identity confirmation for users and devices using attributes (e.g., name, location, time, etc.) universally recognized and tracked across the network.
-
+「認証」とは、属性（名前、場所、時間など）を使用したユーザーとデバイスの本人確認です。
 “Multi-factor authentication” (MFA) describes the process of cross-checking multiple attributes to verify identity.
 ### Authorization:
 “Authorization” describes the access privileges granted to users and devices.
