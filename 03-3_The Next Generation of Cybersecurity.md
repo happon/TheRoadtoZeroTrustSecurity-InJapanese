@@ -74,5 +74,6 @@ ZTAのより高度な型式は、各アプリケーションおよびサービ�
 This methodology would protect against adversaries that penetrated the network perimeter and the application or service itself, limiting the data access and maneuverability of those adversaries.  
 この方法論は、ネットワークの境界、アプリケーションもしくはサービス自体に侵入した敵から保護し、データアクセスや敵の機動性を制限します。
 
+
 As in the case of microsegmentation at the application and service level, microsegmentation within those entities should require authentication and authorization specific to the subsegment in question, enabling a more precise “least-privilege access” model of security.   
-アプリケーションとサービスレベルでのマイクロセグメンテーションの場合のように、それらのエンティティ内のマイクロセグメンテーションには、問題のサブセグメントに固有の認証と、セキュリティのより正確な「最小特権アクセス」モデルの認可を必要とします。
+アプリケーションとサービスレベルでのマイクロセグメンテーションの場合のように、それらのエンティティ内のマイクロセグメンテーションには、問題のサブセグメントに固有の認証と、セキュリティのより正確な「最小特権アクセス」モデルの可能化を必要とします。
