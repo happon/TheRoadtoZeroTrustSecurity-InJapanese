@@ -20,7 +20,7 @@ From a security perspective, ZTA can better track and block external attackers, 
 セキュリティの観点から、ZTAは、外部の攻撃者を追跡およびブロックする一方で、内部の人間に起因するセキュリティ侵害を制限することをより良くすることができます。
 
 From a data sharing perspective, ZTA can better manage rules of access for users and devices across DoD to facilitate secure sharing, from the enterprise center to the tactical edge.  
-データ共有の観点から、ZTAは、エンタープライズセンターから戦術的な最前線（edge）まで、ユーザーのアクセス規則と安全な共有を促進するDoD全体のデバイスをより適切に管理することができます。
+データ共有の観点から、ZTAは、エンタープライズセンターから戦術的な最前線（edge）まで、ユーザーのアクセス規則と安全な共有を促進するDoD全体のデバイスを、より適切に管理することができます。
 
 Furthermore, the network design and flexibility of ZTA will help DoD more rapidly adopt and implement critical network technologies and enablers, ranging from cloud computing to artificial intelligence and machine learning.  
 さらに、ZTAのネットワーク設計と柔軟性は、DoDによるクラウドコンピューティングから人工知能・機械学習に及ぶ重要なネットワークテクノロジーとイネーブラーのより迅速な導入と実装を手助けするでしょう。
