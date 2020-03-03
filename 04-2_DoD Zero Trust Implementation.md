@@ -2,13 +2,14 @@
 ##### ゼロトラストを実装するときのQ&A
 
 Zero Trust Implementing ZTA involves a gradual shift across the entire network, services, and computing devices space.  
-ZTAの実装には、ネットワーク全体、サービス、およびコンピューティングデバイススペース全体にわたる段階的な移行が伴います
+ZTAの実装には、ネットワーク全体、サービス、およびコンピューティングデバイススペース全体にわたる段階的な移行が伴います。
 
 Implementation is a journey that can result in a successively more secure organization with each additional step taken.  
-実装は、安全性を継続的に高めることができる旅です
+実装は、安全性を継続的に高めることができる旅です。
 
 Below are a set of questions you can ask to see if your organization is effectively implementing ZTA.  
-以下は、あなたの組織がZTAを効果的に実装するときに、あなたが確認できる質問集です。
+以下は、あなたの組織がZTAを効果的に実装するときに、あなたが確認できる質問集です。  
+<br>
 
 1. In a world where the network boundary cannot be trusted, encryption of data in transit and at rest is critical.  
 ネットワーク境界が信頼できない世界では、転送中および保存中のデータの暗号化はとても重要です。
