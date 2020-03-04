@@ -20,6 +20,7 @@ Authorization is linked to authentication attributes, and can include “Role-Ba
 承認は、認証属性にリンクされており、ユーザーおよびデバイスへのアクセスの承認に対するさまざまなアプローチを説明する「役割に基づいたアクセス制御(RBAC)」や「属性に基づいたアクセス制御」を含めることができます。  
 
 RBAC provides a common set of access rules based on pre-defined user roles, whereas ABAC provides access based on the combination of multiple user attributes which can include a user’s role. 
+RBACは、事前に定義されたユーザーの役割に基づいて、共通のアクセスルールを提供します。一方、ABACは、複数のユーザー属性（ひとりのユーザーの役割を含む）の組み合わせに基づいてアクセスを提供します。  
 
 ### Certificate authority:
 “Certificate authority” (CA) is a trusted entity that issues and manages digital certificates used for secure communication in a public network.
