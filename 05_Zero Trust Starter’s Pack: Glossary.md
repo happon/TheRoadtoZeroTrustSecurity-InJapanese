@@ -37,8 +37,8 @@ This includes the “authentication” and “authorization” mechanisms of ZTA
 “Privileged Identity Management” (PIM) falls under the category of IAM and assigns varying degrees of access to different tiers of users, allowing the access controller to better monitor “Privileged Identities” (PIs) that have higher levels of permission.
 
 ### Least-privilege access:
-“Least-privilege access” is a core principle of zero trust, and requires that users and devices only be granted access to the information, applications, and services absolutely necessary for them to function.
-「最小権限アクセス」は、ゼロトラストのコアとなる原則であり、機能するために絶対に必要な情報、アプリケーションおよびサービスへのアクセスがユーザーやデバイスにのみ許可されることが必要とされます。←要修正
+“Least-privilege access” is a core principle of zero trust, and requires that users and devices only be granted access to the information, applications, and services absolutely necessary for them to function.  
+「最小特権アクセス」はゼロトラストの基本原則であり、ユーザーとデバイスが機能するために絶対に必要な情報、アプリケーション、およびサービスへのアクセスのみを許可する必要があります。  
 Least-privilege access can also be referred to as “Principle of Least Privilege” (PoLP).
 
 ### Key management:
