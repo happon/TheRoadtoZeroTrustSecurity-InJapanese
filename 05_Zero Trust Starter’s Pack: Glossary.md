@@ -22,7 +22,7 @@ Authorization is linked to authentication attributes, and can include “Role-Ba
 RBAC provides a common set of access rules based on pre-defined user roles, whereas ABAC provides access based on the combination of multiple user attributes which can include a user’s role. 
 RBACは、事前に定義されたユーザーの役割に基づいて、共通のアクセスルールを提供します。一方、ABACは、複数のユーザー属性（ひとりのユーザーの役割を含む）の組み合わせに基づいてアクセスを提供します。  
 
-### Certificate authority:
+### Certificate authority:「認証局」
 “Certificate authority” (CA) is a trusted entity that issues and manages digital certificates used for secure communication in a public network.
 
 CA confirms the ownership of public keys associated with the subject of the certificate.
@@ -36,7 +36,7 @@ This includes the “authentication” and “authorization” mechanisms of ZTA
 
 “Privileged Identity Management” (PIM) falls under the category of IAM and assigns varying degrees of access to different tiers of users, allowing the access controller to better monitor “Privileged Identities” (PIs) that have higher levels of permission.
 
-### Least-privilege access:「認証局」
+### Least-privilege access:
 “Least-privilege access” is a core principle of zero trust, and requires that users and devices only be granted access to the information, applications, and services absolutely necessary for them to function.
 「最小権限アクセス」は、ゼロトラストのコアとなる原則であり、機能するために絶対に必要な情報、アプリケーションおよびサービスへのアクセスがユーザーやデバイスにのみ許可されることが必要とされます。←要修正
 Least-privilege access can also be referred to as “Principle of Least Privilege” (PoLP).
