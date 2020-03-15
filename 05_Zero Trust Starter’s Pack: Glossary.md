@@ -23,11 +23,14 @@ RBAC provides a common set of access rules based on pre-defined user roles, wher
 RBACは、事前に定義されたユーザーの役割に基づいて、共通のアクセスルールを提供します。一方、ABACは、複数のユーザー属性（ひとりのユーザーの役割を含む）の組み合わせに基づいてアクセスを提供します。  
 
 ### Certificate authority:「認証局」
-“Certificate authority” (CA) is a trusted entity that issues and manages digital certificates used for secure communication in a public network.
+“Certificate authority” (CA) is a trusted entity that issues and manages digital certificates used for secure communication in a public network.  
+「認証局」（CA）は、パブリックネットワークでの安全な通信に使用されるデジタル証明書を発行および管理する信頼できる存在です。  
 
-CA confirms the ownership of public keys associated with the subject of the certificate.
+CA confirms the ownership of public keys associated with the subject of the certificate.  
+認証局は、証明書のサブジェクトに関連付けられている公開鍵の所有権を確認します。  
 
-In zero trust, CA will serve a critical function in verifying content and content sources at the application and service level.
+In zero trust, CA will serve a critical function in verifying content and content sources at the application and service level.  
+ゼロトラストでは、認証局はアプリケーションおよびサービスレベルでコンテンツとコンテンツソースを検証する決定的な機能を果たします。  
 
 ### Identity and Access Management:
 “Identity and Access Management” (IAM) includes the processes, policies, and technologies that enable verification of users and devices requesting access to applications and services within a network. 
