@@ -32,12 +32,15 @@ CA confirms the ownership of public keys associated with the subject of the cert
 In zero trust, CA will serve a critical function in verifying content and content sources at the application and service level.  
 ゼロトラストでは、認証局はアプリケーションおよびサービスレベルでコンテンツとコンテンツソースを検証する決定的な機能を果たします。  
 
-### Identity and Access Management:
-“Identity and Access Management” (IAM) includes the processes, policies, and technologies that enable verification of users and devices requesting access to applications and services within a network. 
+### Identity and Access Management:「ＩＤ管理とアクセス管理」
+“Identity and Access Management” (IAM) includes the processes, policies, and technologies that enable verification of users and devices requesting access to applications and services within a network.   
+「ＩＤ管理とアクセス管理」(IAM)には、ネットワーク内のアプリケーションとサービスへのアクセスを要求するユーザーとデバイスの検証を可能にするプロセス、ポリシー、およびテクノロジーが含まれています。  
 
-This includes the “authentication” and “authorization” mechanisms of ZTA.
+This includes the “authentication” and “authorization” mechanisms of ZTA.  
+これには、ZTAの「認証」と「承認」メカニズムが含まれています。  
 
 “Privileged Identity Management” (PIM) falls under the category of IAM and assigns varying degrees of access to different tiers of users, allowing the access controller to better monitor “Privileged Identities” (PIs) that have higher levels of permission.
+「特権ＩＤの管理」(PIM)は、IAMのカテゴリーに分類され、さまざまなレベルのアクセスをさまざまなユーザー層に割り当てるため、アクセスコントローラーは、より高いレベルのアクセス許可を持つ "特権ID"（PIs）をより適切に監視できます。  
 
 ### Least-privilege access:
 “Least-privilege access” is a core principle of zero trust, and requires that users and devices only be granted access to the information, applications, and services absolutely necessary for them to function.  
