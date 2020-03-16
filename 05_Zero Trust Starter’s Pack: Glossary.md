@@ -39,7 +39,7 @@ In zero trust, CA will serve a critical function in verifying content and conten
 This includes the “authentication” and “authorization” mechanisms of ZTA.  
 これには、ZTAの「認証」と「承認」メカニズムが含まれています。  
 
-“Privileged Identity Management” (PIM) falls under the category of IAM and assigns varying degrees of access to different tiers of users, allowing the access controller to better monitor “Privileged Identities” (PIs) that have higher levels of permission.
+“Privileged Identity Management” (PIM) falls under the category of IAM and assigns varying degrees of access to different tiers of users, allowing the access controller to better monitor “Privileged Identities” (PIs) that have higher levels of permission.  
 「特権ＩＤの管理」(PIM)は、IAMのカテゴリーに分類され、さまざまなレベルのアクセスをさまざまなユーザー層に割り当てるため、アクセスコントローラーは、より高いレベルのアクセス許可を持つ "特権ID"（PIs）をより適切に監視できます。  
 
 ### Least-privilege access:
