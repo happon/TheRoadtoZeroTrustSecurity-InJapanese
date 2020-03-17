@@ -42,17 +42,21 @@ This includes the “authentication” and “authorization” mechanisms of ZTA
 “Privileged Identity Management” (PIM) falls under the category of IAM and assigns varying degrees of access to different tiers of users, allowing the access controller to better monitor “Privileged Identities” (PIs) that have higher levels of permission.  
 「特権ＩＤの管理」(PIM)は、IAMのカテゴリーに分類され、さまざまなレベルのアクセスをさまざまなユーザー層に割り当てるため、アクセスコントローラーは、より高いレベルのアクセス許可を持つ "特権ID"（PIs）をより適切に監視できます。  
 
-### Least-privilege access:
+### Least-privilege access:「最小特権アクセス」
 “Least-privilege access” is a core principle of zero trust, and requires that users and devices only be granted access to the information, applications, and services absolutely necessary for them to function.  
 「最小特権アクセス」はゼロトラストの基本原則であり、ユーザーとデバイスが機能するために絶対に必要な情報、アプリケーション、およびサービスへのアクセスのみを許可する必要があります。  
-Least-privilege access can also be referred to as “Principle of Least Privilege” (PoLP).
+Least-privilege access can also be referred to as “Principle of Least Privilege” (PoLP).  
+最小特権アクセスは、「最小特権の原則」(PoLP)とも呼ばれます。  
 
-### Key management:
-“Key management” refers to the protection, storage, back up, and organization of encryption keys used to protect data being transferred between end points.
+### Key management:「キー管理」
+“Key management” refers to the protection, storage, back up, and organization of encryption keys used to protect data being transferred between end points.  
+「キー管理」とは、エンドポイント間で転送されるデータを保護するために使用される暗号化キーの保護、保存、バックアップ、および編成を指します。  
 
-In the context of a zero trust network, encryption becomes increasingly important as a method of protecting data traveling across the network.
+In the context of a zero trust network, encryption becomes increasingly important as a method of protecting data traveling across the network.  
+ゼロトラストネットワークのコンテキストでは、ネットワーク上を移動するデータを保護する方法として暗号化がますます重要になります。  
 
-Public Key Infrastructure (PKI) manages the creation and assignment of digital certificates and their accompanying encrypted public keys.
+Public Key Infrastructure (PKI) manages the creation and assignment of digital certificates and their accompanying encrypted public keys.  
+公開鍵基盤（PKI）は、デジタル証明書とそれに付随する暗号化された公開キーの作成と割り当てを管理します。  
 
 ### Microsegmentation:
 “Microsegmentation” is a method of creating secure zones within the network at the applications and services layer or below to allow better monitoring of lateral network traffic and management of access to those zones.
