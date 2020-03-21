@@ -58,15 +58,19 @@ In the context of a zero trust network, encryption becomes increasingly importan
 Public Key Infrastructure (PKI) manages the creation and assignment of digital certificates and their accompanying encrypted public keys.  
 公開鍵基盤（PKI）は、デジタル証明書とそれに付随する暗号化された公開キーの作成と割り当てを管理します。  
 
-### Microsegmentation:
-“Microsegmentation” is a method of creating secure zones within the network at the applications and services layer or below to allow better monitoring of lateral network traffic and management of access to those zones.
+### Microsegmentation:「マイクロセグメンテーション」
+“Microsegmentation” is a method of creating secure zones within the network at the applications and services layer or below to allow better monitoring of lateral network traffic and management of access to those zones.  
+「マイクロセグメンテーション」とは、アプリケーションおよびサービスレイヤー以下でネットワーク内にセキュアゾーンを作成し、横方向のネットワークトラフィックのより良い監視とそれらのゾーンへのアクセス管理を可能にする方法です。  
 
-Microsegmentation could enable zero trust principles by allowing administrators to control authentication and authorization at a more granular level than the network perimeter. 
+Microsegmentation could enable zero trust principles by allowing administrators to control authentication and authorization at a more granular level than the network perimeter.   
+管理者がネットワーク境界よりも詳細なレベルで認証と承認を制御できるようにすることで、マイクロセグメンテーションは、ゼロ信頼の原則を実現できます。
 
-### Perimeter model:
-“Perimeter model” refers to the traditional method of cybersecurity, which focuses on the defense of the edge of a network, or network “perimeter.”
+### Perimeter model:「境界モデル」
+“Perimeter model” refers to the traditional method of cybersecurity, which focuses on the defense of the edge of a network, or network “perimeter.”  
+「境界モデル」とは、ネットワークの端またはネットワーク「境界」の防御に焦点を当てたサイバーセキュリティの従来の方法を指します。  
 
-Once users and devices are granted access to the network, they are more easily able to move laterally into different applications and services within the network.
+Once users and devices are granted access to the network, they are more easily able to move laterally into different applications and services within the network.  
+ネットワークへのアクセスが許可されたユーザーとデバイスは、ネットワーク内のさまざまなアプリケーションとサービスに横方向に簡単に移動できます。  
 
 ### Secure Sockets Layer/Transport Layer Security Encryption:
 Secure Sockets Layer (SSL) and its follow-on, Transport Layer Security (TLS), are cryptographic protocols that protect data being transferred between end points by verifying connection security and performing “handshake” authentication between a client and a server. 
