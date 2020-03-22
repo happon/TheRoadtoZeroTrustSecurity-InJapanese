@@ -72,5 +72,6 @@ Microsegmentation could enable zero trust principles by allowing administrators 
 Once users and devices are granted access to the network, they are more easily able to move laterally into different applications and services within the network.  
 ネットワークへのアクセスが許可されたユーザーとデバイスは、ネットワーク内のさまざまなアプリケーションとサービスに横方向に簡単に移動できます。  
 
-### Secure Sockets Layer/Transport Layer Security Encryption:
-Secure Sockets Layer (SSL) and its follow-on, Transport Layer Security (TLS), are cryptographic protocols that protect data being transferred between end points by verifying connection security and performing “handshake” authentication between a client and a server. 
+### Secure Sockets Layer/Transport Layer Security Encryption:「SSL／TSL　暗号化」  
+Secure Sockets Layer (SSL) and its follow-on, Transport Layer Security (TLS), are cryptographic protocols that protect data being transferred between end points by verifying connection security and performing “handshake” authentication between a client and a server.   
+SSLとその後継であるTSLは、接続セキュリティを検証し、クライアントとサーバー間の「ハンドシェイク」認証を実行することにより、エンドポイント間で転送されるデータを保護する暗号プロトコルです。
