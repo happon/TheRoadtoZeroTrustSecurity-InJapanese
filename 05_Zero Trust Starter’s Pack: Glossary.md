@@ -3,24 +3,23 @@
 <br>
 ### Authentication:「認証」
  “Authentication” is the identity confirmation for users and devices using attributes (e.g., name, location, time, etc.) universally recognized and tracked across the network.  
-「認証」とは、ネットワーク全体であまねく認識され、かつ、追跡された属性（名前、場所、時間など）を使用したユーザーとデバイスの本人確認です。
+「認証」とは、ネットワーク上で普遍的に認識され、追跡される属性（名前、場所、時間など）を用いて、ユーザや機器の身元を確認することです。  
 
 “Multi-factor authentication” (MFA) describes the process of cross-checking multiple attributes to verify identity.  
-「多要素認証(MFA)」は、本人確認のための複数の属性をクロスチェックするプロセスを示しています。  
-<br>
+「多要素認証(MFA)」は、複数の属性をクロスチェックして本人確認を行うプロセスを示しています。
 
 ### Authorization:「承認」
  “Authorization” describes the access privileges granted to users and devices.  
 「承認」とは、ユーザーとデバイスに付与されるアクセス権限を示しています。
 
-Perimeter security authorization grants access to the network, while zero trust authorization grants access to individual applications and services within the network. 
-境界セキュリティ承認はネットワークへのアクセスを許可し、ゼロトラスト承認は、ネットワーク内の個々のアプリケーションとサービスへのアクセスを許可します。  
+Perimeter security authorization grants access to the network, while zero trust authorization grants access to individual applications and services within the network.  
+境界セキュリティ承認はネットワークへのアクセスを許可し、ゼロトラスト承認は、ネットワーク内の個々のアプリケーションやサービスへのアクセスを許可します。  
 
-Authorization is linked to authentication attributes, and can include “Role-Based Access Control” (RBAC) and “Attribute- Based Access Control” (ABAC), describe different approaches to authorization of user and device access.
-承認は、認証属性にリンクされており、ユーザーおよびデバイスへのアクセスの承認に対するさまざまなアプローチを説明する「役割に基づいたアクセス制御(RBAC)」や「属性に基づいたアクセス制御」を含めることができます。  
+Authorization is linked to authentication attributes, and can include “Role-Based Access Control” (RBAC) and “Attribute- Based Access Control” (ABAC), describe different approaches to authorization of user and device access.  
+承認は、認証属性にリンクされており、「役割ベースのアクセス制御」（RBAC）と「属性ベースのアクセス制御」（ABAC）を含めることができ、ユーザーとデバイスのアクセスを承認するためのさまざまなアプローチについて説明します。 
 
-RBAC provides a common set of access rules based on pre-defined user roles, whereas ABAC provides access based on the combination of multiple user attributes which can include a user’s role. 
-RBACは、事前に定義されたユーザーの役割に基づいて、共通のアクセスルールを提供します。一方、ABACは、複数のユーザー属性（ひとりのユーザーの役割を含む）の組み合わせに基づいてアクセスを提供します。  
+RBAC provides a common set of access rules based on pre-defined user roles, whereas ABAC provides access based on the combination of multiple user attributes which can include a user’s role.  
+RBACは、事前に定義されたユーザーの役割に基づいて、共通のアクセスルールを提供します。一方、ABACは、ユーザーの役割を含むことができる複数のユーザー属性の組み合わせに基づいたアクセスを提供します。  
 
 ### Certificate authority:「認証局」
 “Certificate authority” (CA) is a trusted entity that issues and manages digital certificates used for secure communication in a public network.  
